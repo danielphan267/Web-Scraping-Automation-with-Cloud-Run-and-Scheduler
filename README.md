@@ -2,7 +2,7 @@
 
 ## Summary
 
-This project uses **Python** and **Selenium** to automate the process of getting data from [XE.com](https://www.xe.com). It runs on **Google Cloud Run** via **Docker**, with **Cloud Scheduler** triggering the process every minute. Data is stored in **Google Sheets**.  
+This project uses **Python** and **Selenium** to automate the process of extracting exchange currency rates from [XE.com](https://www.xe.com). It runs on **Google Cloud Run** via **Docker**, with **Cloud Scheduler** triggering the process every minute. Data is stored in **Google Sheets**.  
 
 ## How it works
 
