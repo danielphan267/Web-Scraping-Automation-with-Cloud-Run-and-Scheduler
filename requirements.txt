@@ -1,0 +1,13 @@
+Flask
+google-cloud-functions
+google-cloud-scheduler
+google-cloud-storage
+google-cloud-secret-manager
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+selenium
+chromedriver-autoinstaller
+pytz
+gunicorn
